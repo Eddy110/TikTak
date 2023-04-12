@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>TikTak</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>TikTak</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>TikTak\src</path>
+				<dir>src</dir>
+			</folderitem>
+			<fileitem>
+				<path>TikTak\src\Step1.java</path>
+				<collapsedfolds>0</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>TikTak\src\TikTak.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>TikTak\src\Step1.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
